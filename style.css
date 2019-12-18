@@ -1,0 +1,196 @@
+﻿*
+{
+	margin: 0px;
+	padding: 0px;
+}
+body
+{
+	background:url(images/background.jpg) fixed center;
+	font-family:timesnewroman;
+	
+}
+a
+{
+	text-decoration:none;
+	font-family:calibri;
+}
+a:hover 
+{
+	color:gray;
+	font-weight:bold;
+}
+
+
+h2 
+{
+	padding-top:30px;
+	font-weight:normal;
+	font-size:35px;
+	text-align:center;
+	color:#ba4801;	
+}
+h3
+{
+	font-size:25px;
+	font-weight:normal;
+	padding-top:20px;
+	padding-left:20px;
+	text-align:center;
+	color:#ba4801;
+}
+h4
+{
+	padding:10px 20px 10px 20px;
+	font-size:18px;
+	text-align:center;
+	color:#ba4801;
+	font-weight:normal;
+
+
+}
+
+p 
+{
+	padding:10px 20px 10px 20px;
+	font-size:18px;
+	text-align:center;
+}
+hr 
+{
+	width:984px;
+	color:#ba4801;
+	margin-left:20px;
+	margin-right:20px;	
+}
+#wrapper
+{
+	width:1024px;
+	margin:0 auto;
+}
+#zaglavlje
+{
+	width:1024px;
+	height:150px;		
+}
+#zaglavlje1
+{
+	width:1024;
+	height:684px;
+	background:url(images/zaglavlje_1.jpg);	
+}
+
+#logo, #logo a 
+{
+	width:200px;
+	height:50px;
+	padding:20px;
+	text-align:center;
+	font-family:broadway;
+	font-size:40px;
+	color:#FFF;
+}
+#adresa
+{
+	width:300px;
+	height:50px;
+	float:right;
+	text-align:center;
+	margin-right:30px;
+	margin-top:-70px;
+	padding:20px;
+	color:white;
+	font-family:calibri;
+	font-size:18px;	
+}
+#meni
+{
+	width:1024px;
+	height:50px;
+	background:#ba4801;
+	text-align:center;
+	padding-top:25px;	
+}
+#meni ul 
+{	
+	list-style:none;
+}
+#meni ul li 
+{
+	display:inline;
+}
+#meni ul li a 
+{
+	color:#FFF;
+	font-size:19px;
+	font-weight:bold;
+	margin-left:15px;	
+}
+#meni ul li a:hover 
+{
+	color:silver;
+	font-weight:bold;
+}
+#omotSadrzaj
+{
+	width:1024px;
+	background:#FFF;
+	padding-bottom:20px;
+}
+#promocije
+{
+	width:1024px;	
+}
+#opis
+{
+	width:1024px;
+}
+#footer
+{
+	width:1024px;
+	height:50px;
+	background:#ba4801;
+
+}
+#footer p 
+{
+	color:#fff;
+	font-family:calibri;
+	font-size:15px;
+	padding:15px;
+}
+.paket
+{
+	width:250px;
+	float:left;
+	margin-left:35px;
+	margin-top:20px;
+	margin-right:50px;
+	text-align:center;	
+}
+.paket img 
+{
+	border-width:thin;
+	border-color:silver;
+	border-style:solid;
+}
+
+.readMore
+{
+	width:120px;
+	height:25px;
+	font-size:15px;
+	font-family:calibri;
+	color:white;
+	background:#ba4801;
+	text-align:center;
+	border-radius:7px;
+	margin:auto;
+}
+.readMore a 
+{
+	color:#FFF;
+}
+.cistac
+{
+	clear:both;
+}	
