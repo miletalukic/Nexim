@@ -68,6 +68,35 @@ hr
 	margin-left:20px;
 	margin-right:20px;	
 }
+table 
+{
+	width:1024;
+	text-align:center;
+	border-bottom:2px;
+	border-top:2px;
+	border-left:0px;
+	border-right:0px;
+	border-style:solid;
+	border-color:#ba4801;
+}
+table th, table tr td 
+{
+	width:70px;
+	font-family:timesnewroman;
+	font-size:18px;
+	font-weight:normal;
+	font-style:italic;
+	border-bottom:1px;
+	border-bottom-style:dashed;
+	border-bottom-color:gray;
+	
+}
+table th 
+{
+	font-size:20px;
+	background-color:silver;
+}	
+
 #wrapper
 {
 	width:1024px;
@@ -231,6 +260,18 @@ hr
 .readMore a 
 {
 	color:#FFF;
+}
+.cenovnik
+{
+	width:1024px;
+	padding-top:20px;
+	padding-bottom:20px;	
+}
+.cenovnik p 
+{
+	font-size:16px;
+	text-align:justify;
+	color:gray;
 }
 .cistac
 {
