@@ -68,6 +68,12 @@ hr
 	margin-left:20px;
 	margin-right:20px;	
 }
+ul
+{
+	padding-left:50px;
+	padding-top:20px;
+	list-style:square;
+}
 table 
 {
 	width:1024px;
@@ -227,7 +233,7 @@ table th
 	color:#fff;
 	font-family:calibri;
 	font-size:15px;
-	padding:15px;
+	padding:15px;	
 }
 .paket
 {
